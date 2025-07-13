@@ -68,8 +68,8 @@ $database = "student_leave";
 5️⃣ Open browser → http://localhost/EZLeave/ 🚀
 
 🧑‍💻 Default Admin Login
-Email: dp3133486@gmai.com
-Password: 789
+Email: divya@gmai.com
+Password: divya
 
 💡 Future Ideas
 Email notifications to Admin & Students
