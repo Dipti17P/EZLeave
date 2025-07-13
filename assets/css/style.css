@@ -1,0 +1,22 @@
+/* Global Styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+.navbar {
+  background-color: #0d6efd;
+}
+
+.navbar .nav-link {
+  color: white !important;
+}
+
+.table th {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.badge {
+  font-size: 0.9rem;
+}
